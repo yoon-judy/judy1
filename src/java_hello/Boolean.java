@@ -2,7 +2,7 @@ package java_hello;
 
 public class Boolean {
 	public static void main(String[] args) {
-			        boolean b1= true;
+			        boolean b1 = true;
 			        boolean b2= false;
 			        
 			        double width =  10; // 밑변

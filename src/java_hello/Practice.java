@@ -1,4 +1,4 @@
-package constructorex;
+package java_hello;
 
 import java.util.Scanner;
 
